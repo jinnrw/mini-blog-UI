@@ -19,7 +19,7 @@ const addPost = (state, post) => {
   return newState;
 };
 
-export default (state = INITIAL_STATE, action) => {
+export const PostsReducer = (state = INITIAL_STATE, action) => {
   switch (action.type) {
     case types.ADD_POST:
       return addPost(state, action.payload);
