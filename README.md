@@ -8,7 +8,7 @@ A mini blog UI built with React and Redux.
 - Testing
   - Jest, Enzyme (in progess)
 
-### Demo
+## Demo
 Visit the [demo](https://mini-blog-ui.vercel.app/) here! (Deployed with Vercel)
 
 ## Run Locally
